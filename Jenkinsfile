@@ -1,5 +1,4 @@
 pipeline {
-    // some block
  agent any
   stages {  
     stage('Github Checkout SCM') {
